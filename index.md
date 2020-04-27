@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# AMATEUR Assessment 4
 
-You can use the [editor on GitHub](https://github.com/mchung1804/amateur.sepr.4/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Previous assessments
+[Assessment 1](https://group7sepr.wixsite.com/mysite/assessment-1)
+[Assessment 2](https://group7sepr.wixsite.com/mysite/assessment-2)
+[Assessment 3](https://group7sepr.wixsite.com/mysite-1/assessment3)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Evaluation and Testing
 
-### Markdown
+## Implementation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mchung1804/amateur.sepr.4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Project Review
