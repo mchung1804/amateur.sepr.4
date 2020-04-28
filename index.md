@@ -18,7 +18,7 @@
 [Risk report](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_f3f2e8855ad445b8b170acdf57d7f684.pdf)
 
 ### Updated Deliverables
-[Updated requirements](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_71d1c5fc0c8b4b49a374f828dcd038eb.pdf)
+[Updated requirements](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_b766a76d1bfc4d5f9f5c98704e0d8fb5.pdf)
 
 ### Java docs
 [Java Docs](https://github.com/mchung1804/amateur.sepr.4/blob/master/warKroy_Documentation.zip?raw=true)
