@@ -11,15 +11,7 @@
 [JAR file](https://github.com/mchung1804/amateur.sepr.4/blob/master/WarKroyFinal.zip?raw=true)
 
 ### Evaluation and Testing
-Septagon deliverables
-
-[Integration testing (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_0d683227ba1041dbb82b3b78e23038ad.pdf)
-
-[System testing (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_6fe11a80b83f45498771b34a213399c1.pdf)
-
-[Unit testing (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_e001bfb888f8454f85104a3fd3c22363.pdf)
-
-[Testing methods (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_4354b7d9a9a94aff9a70dcc797becab9.pdf)
+[Evaluation and Testing Report](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_151e16cdcf93436e8ed8ebf4f8369d71.pdf)
 
 Amateur deliverables
 
@@ -32,6 +24,16 @@ Amateur deliverables
 [Proof of test results](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_258ca9df08e642eaada4f5c6898bb7b6.pdf)
 
 [Game tests](https://github.com/mchung1804/amateur.sepr.4/blob/master/tests.zip?raw=true)
+
+Septagon deliverables
+
+[Integration testing (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_0d683227ba1041dbb82b3b78e23038ad.pdf)
+
+[System testing (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_6fe11a80b83f45498771b34a213399c1.pdf)
+
+[Unit testing (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_e001bfb888f8454f85104a3fd3c22363.pdf)
+
+[Testing methods (inherited)](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_4354b7d9a9a94aff9a70dcc797becab9.pdf)
 
 ### Implementation
 [Implementation report](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_53f08d1a11af471aa7050d15ddd2ac13.pdf)
