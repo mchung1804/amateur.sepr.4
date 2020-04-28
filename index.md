@@ -10,7 +10,7 @@
 ### Evaluation and Testing
 
 ### Implementation
-[Architecture Diagram](ArchDiagramAss4.png)
+[Architecture Diagram](https://raw.githubusercontent.com/mchung1804/amateur.sepr.4/master/ArchDiagramAss4.png)
 
 ### Project Review
 [Project review report](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_204507128c1f48deb17c5dc6ff6351e7.pdf)
