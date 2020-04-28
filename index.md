@@ -29,6 +29,8 @@ Amateur deliverables
 [Game tests](https://github.com/mchung1804/amateur.sepr.4/blob/master/tests.zip?raw=true)
 
 ### Implementation
+[Implementation report](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_53f08d1a11af471aa7050d15ddd2ac13.pdf)
+
 [Architecture Diagram](https://raw.githubusercontent.com/mchung1804/amateur.sepr.4/master/ArchDiagramAss4.png)
 
 ### Project Review
