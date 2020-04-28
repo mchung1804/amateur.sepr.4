@@ -26,6 +26,8 @@ Amateur deliverables
 
 [Unit testing](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_f3db1900089e427ba3fb38f9688b92f5.pdf)
 
+[Game tests](https://github.com/mchung1804/amateur.sepr.4/blob/master/tests.zip?raw=true)
+
 ### Implementation
 [Architecture Diagram](https://raw.githubusercontent.com/mchung1804/amateur.sepr.4/master/ArchDiagramAss4.png)
 
