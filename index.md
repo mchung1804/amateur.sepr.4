@@ -29,6 +29,8 @@ Amateur deliverables
 
 [Unit testing](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_f3db1900089e427ba3fb38f9688b92f5.pdf)
 
+[Proof of test results](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_258ca9df08e642eaada4f5c6898bb7b6.pdf)
+
 [Game tests](https://github.com/mchung1804/amateur.sepr.4/blob/master/tests.zip?raw=true)
 
 ### Implementation
@@ -44,5 +46,5 @@ Amateur deliverables
 ### Updated Deliverables
 [Updated requirements](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_ba5d3c411e964971b0cc712885f193e2.pdf)
 
-### Java docs
+### Java Docs
 [Java Docs](https://github.com/mchung1804/amateur.sepr.4/blob/master/warKroy_Documentation.zip?raw=true)
