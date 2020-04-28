@@ -20,4 +20,4 @@
 [Updates requirements](https://c01085a2-7210-4426-99e3-86fb42d735a0.filesusr.com/ugd/b05237_71d1c5fc0c8b4b49a374f828dcd038eb.pdf)
 
 ### Java docs
-[Java Docs](/warKroy_Documentation.zip)
+[Java Docs](https://github.com/mchung1804/amateur.sepr.4/blob/master/warKroy_Documentation.zip?raw=true)
